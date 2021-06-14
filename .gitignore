@@ -1,0 +1,9 @@
+node_modules/
+/lib/
+/test/
+custom-elements.json
+# top level source
+go-widget.js
+go-widget.js.map
+go-widget.d.ts
+go-widget.d.ts.map
