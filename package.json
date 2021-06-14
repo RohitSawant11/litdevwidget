@@ -79,5 +79,8 @@
   "bugs": {
     "url": "https://github.com/RohitSawant11/litdevwidget/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/RohitSawant11/litdevwidget#readme"
 }
